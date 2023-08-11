@@ -1,3 +1,17 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+	<bitmap id="Logo" filename="logo.png" dithering="none">
+	    <palette >
+	        <!-- White -->
+	        <color>FFFFFF</color>
+	        <!-- Blue: #005D9D -->
+	        <color>005D9D</color>
+	        <!-- Beige/Skin tone: #F9C288 -->
+	        <color>F9C288</color>
+	        <!-- Red: #E32219 -->
+	        <color>E32219</color>
+	        <!-- Black (si aún lo necesitas) -->
+	        <color>000000</color>
+	    </palette>
+	</bitmap>
 </drawables>
